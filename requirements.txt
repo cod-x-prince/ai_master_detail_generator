@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain-google-genai
+langchain-groq
+langchain-openai
+langchain-community
+langchain
+nest-asyncio
+sentence-transformers
+torch
+chromadb
+pypdf
+docx2txt
